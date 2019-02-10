@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518109499 source:c:\users\z\documents\zlogdecrypt\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
